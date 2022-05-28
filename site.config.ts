@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '1e684fe381944e75be48fb84afd599ee',
+  rootNotionPageId: '10fcc8bfeca844c2a929bb28edc3b2da?v=1e684fe381944e75be48fb84afd599ee',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
